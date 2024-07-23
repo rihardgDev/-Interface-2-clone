@@ -8,3 +8,5 @@ Standard 5x5 mm button
 3pin jumper 
 15 pin penpendicular edge connector
 2x diode 1N4148 (0805 size) 
+
+A user named Anestis Koutsoudis also provided a 3d pritnable design of the case that can be dound here: https://www.thingiverse.com/thing:6699415
